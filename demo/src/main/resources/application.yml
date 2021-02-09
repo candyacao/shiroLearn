@@ -1,0 +1,11 @@
+spring:
+  main:
+    banner-mode: "off"
+  profiles:
+    active: dev
+
+book:
+  author:
+    name: wangyunfei
+    age: 23
+  name: spring boot
